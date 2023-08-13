@@ -1,0 +1,39 @@
+perros sdsds malos
+
+
+borrar
+  -reloading    : 2021  : Start 977
+  -watchdog     : 2023  : Start 5871
+  -Pymon        : Antigua 2016
+
+  🌱🌿🌳🍃
+
+  🔧⚙️  🛠️🔃
+  
+  ☠️  💀
+
+  ❓ 🌱
+
+ ➡️  ⬅️  ⬆️  ⬇️  ↗️  ↘️  ↙️  ↖️  ↕️  ↔️
+🌱
+
+Paquetes Utiles
+  ranger
+  emoj
+  translate-shell
+  nvim
+
+  - Alias nvim ..note.txt
+
+Musica Sombrero 🤠
+  hell's Comin' with me
+
+// Modo Verical
+  scrcpy --always-on-top --disable-screensaver --turn-screen-off --window-borderless --window-x -1 --window-height 768
+
+// Modo Horizontal
+  scrcpy --always-on-top --disable-screensaver --turn-screen-off  (recomendado)
+  scrcpy --always-on-top --disable-screensaver --turn-screen-off --window-borderless --window-width 1366
+
+
+2:41 Standart Pygame
