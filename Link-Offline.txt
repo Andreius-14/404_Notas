@@ -1,0 +1,5 @@
+
+# Mouse Error - Autosuspension (Pasado a Notion)
+  https://www.reddit.com/r/archlinux/comments/upwdoj/autosuspend_usb/
+  https://wiki.archlinux.org/title/Power_management#USB_autosuspend
+  https://www.youtube.com/watch?v=Pmjg4jWXuRI

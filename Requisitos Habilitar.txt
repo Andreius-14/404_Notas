@@ -1,0 +1,13 @@
+Requisitos - Habilitar
+
+Entorno Virtual
+	- Creacion y Eliminacion
+	- Ingreso y Salida
+
+Comandos - Paquetes
+	-Instalar Modulo [Desarrollo - Produccion]
+	-DeSintalar Modulo
+		-Lista
+
+Registro de Modulos (Algunos lo crean por defecto)
+Restauracion de Modulos

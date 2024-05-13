@@ -1,0 +1,36 @@
+"hi everyone"
+
+- I made this (used two Database) 
+      1° Software Title
+      2° Software Subtemas
+      relation to title Software
+
+Vista: Filter DB by  "Software Title" relation
+
+===
+
+  it's Zettelkasten and look Clean.
+
+
+.............
+
+hi everyone - I like SUB-TASK (Zettelkasten)
+
+  How could i set one "view DB" 
+  that show one "TASK" with its 
+  "SUB-TASK"?
+
+  The Example work becuase "Item" 
+  is a "Item Principal"
+
+
+- Filter DB by "Group Name"
+      Only work to "Parent"
+      Don't work in "SUB-TASK"/"Sub-Item"
+
+
+
+EXAMPLE: DATABASE 
+Filter DB by its "ITEM PARENT"/"TASK-PARENT" 
+And configuring its "ITEMS/TASK" to be flat 
+is limiting.
