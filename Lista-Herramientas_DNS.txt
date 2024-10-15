@@ -1,0 +1,14 @@
+
+-- Herramientas DNS
+
+  - Los Bloqueadores DNS. Empleado por el Gobierno para limitar el acceso a los Usuarios
+  - Los Bloqueadores DNS. Hay herramientas Disponibles para el Usuarios
+
+-- Bloqueador de Anuncions
+  - Pihole
+
+
+------------------------------
+Utilizar un servicio de DNS seguro como DNSCrypt o 
+DNS over HTTPS (DoH). Estos protocolos encriptan el
+tráfico DNS para evitar la inspección y bloqueo
